@@ -36,6 +36,7 @@ public class initSensorNetwork {
 		
 		if (response ==0)
 		{
+			//using his Dijkstra as Plan B
 			System.out.print("missing algo for 0");
 		}
 		else if (response == 1)
